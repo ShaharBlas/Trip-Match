@@ -1,6 +1,6 @@
 # Trip-Match
 
-Please enter the colab project in the link attachted.
+Please enter the colab project in the link attachted: https://colab.research.google.com/drive/1OZcbbacM9P44Bl5NMZcF4cbQT2yM7CbS?usp=sharing
 
 Before running the code, you need to create an API key for using Gemini. In this link you can generate your own Gemini api key: https://ai.google.dev/tutorials/setup?hl=he
 
